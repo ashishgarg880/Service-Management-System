@@ -1,0 +1,55 @@
+@charset "ISO-8859-1";
+body{margin=0;}
+
+.th{width:100%;
+	text-align:center;
+	padding:20px;
+	
+	}
+
+.border{border:2px solid black;
+		
+		}
+
+.th ul{background-attachment:fixed;}	
+
+.bar-right a{color:black;}
+
+.bt{margin-top:15px;
+	margin-left:20px;
+	}
+
+.cmpny{background:url(../photo/cmpny.jpg);
+		background-size:100% 100%;
+		
+		}
+
+.bt button{margin-right:29px;
+			border-radius:4px;
+			}
+			
+.bt:hover button{opacity:.4px;}				
+
+.mn{font-size:30px;
+	font-weight:normal;
+	}
+	
+.logo{color:blue;}	
+	
+.logo:hover{
+	  text-decoration:none;
+	}	
+
+.img_in{background:url(../image/architect.jpg);
+     background-size:100% 100%;
+     padding:200px 200px;
+    
+              }
+
+.img_in p{text-align:center;
+	  font-size:40px;
+	  color:white;
+	  font-weight:bold;
+	  margin-top:100px;
+	  background-attachment:fixed;
+	  }

@@ -1,0 +1,91 @@
+@charset "ISO-8859-1";
+body{margin:0px;}
+
+.hd{width:100%;background-color:#34BACD;height:80px;margin-left:0;margin-right:0;background:rgba(0,198,215,.5);position:fixed;}
+
+.im1{background:url(../photo/pic.jpg);
+      background-size:100% 100%;
+      height:650px;
+      background-repeat:no-repeat;
+     
+      }
+      
+      .cl{color:white;}
+
+.da{background:url(../photo/architect.jpg);background-size:100% 110%;height:450px;background-repeat:no-repeat;}
+
+.im{width: 120px; 
+	margin-top: -0px; 
+	transition:.6s;}
+	
+.a{margin-top:10px;}
+
+.cl{background-color: #00c6d7;
+	color: #fff;
+	text-align: center;
+	padding: 35px;
+	padding-bottom: 18px;
+	font-family: 'Ubuntu-Medium';
+	height: 343.5px;}
+
+.cl p{font-size: 20px;
+	margin-top: 50px;
+	margin-bottom: 40px;}	
+
+.cl p a:hover{background-color:pink;color:black;}	
+
+.ws{background-color: #464646;
+	color:#fff;
+	padding: 20px;
+	height: 343.5px;}	
+.i{padding:0;}
+
+.i1{width:100%;}
+
+.im2{background:url(../photo/pen.jpg);
+      background-size:100% 100%;
+      background-repeat:no-repeat;
+      background-attachment:fixed;      
+      }
+
+.ws p{border-bottom:1px dotted white;margin:10px;padding:10px;}
+	
+.a a{color:white;padding:10px;}
+
+.a a:hover{background-color:purple;color:black;}
+
+.qq{margin-top:80px;}
+
+.qq div img{width:100%;}
+
+.bg{background-color:#34BACD;text-align:center;height:305px;padding:0;}
+
+.qq button{background-color:white;}
+
+.bg1{background-color:grey;height:305px;padding:0;}
+
+.bg1 h2{text-align:center;margin-bottom:20px;}
+
+.qw{background-color:transparent;color:white;}
+
+.qw h1{text-align:center;}
+
+.qw h3{line-height:30px;text-align:justify;word-spacing:4px;font-size:18px;}
+
+.mn p{text-align:center;color:#f265b3;font-size:40px;margin-top:40px;margin-bottom:40px;}
+
+.mn a{text-decoration:none;}
+
+.mn i{color:#34BACD;}
+
+.mn h2{color:black;}
+
+.mn i:hover{transition:.6s;transform:rotateY(360deg);}
+
+.tv{margin-bottom:40px;}
+
+.tv h1{color:#f265b3;margin-top:100px;}
+
+.tv p{font-size:20px;}
+
+.ft{background-color:black;color:white;font-size:16px;padding:10px;}
