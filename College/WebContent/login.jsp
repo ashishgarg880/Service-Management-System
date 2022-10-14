@@ -29,6 +29,8 @@
     <ul class="nav navbar-nav navbar-right hd">
     <li><a href="index.jsp"><i class="fa fa-home"></i> Home</a></li>
     <li><a href="login.jsp"><i class="fa fa-user"></i> Log-in</a></li>
+    <li><a href="edit.jsp"><i class="fa fa-edit"></i> Edit</a></li>
+    <li><a href="delete.jsp"><i class="fa fa-trash"></i> Delete</a></li>
     <li><a href="sign.jsp"><i class="fa fa-sign-in"></i> Sign-up</a></li>
     <li><a href="">Basic</a></li>
     <li><a href=""><i class="fa fa-phone"></i> Contact</a></li>
